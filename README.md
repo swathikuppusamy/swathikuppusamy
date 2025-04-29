@@ -1,16 +1,16 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 
 <h1 align="center">Hi 👋, I'm SwathiKuppusamy</h1>
-<h3 align="center">A dedicated full stack developer hailing from India</h3>
+<h3 align="center">A dedicated full stack developerand salesforce developer hailing from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathikuppusamy&label=Profile%20views&color=0e75b6&style=flat" alt="swathikuppusamy" /> </p>
 
 
 
-- 🔭 I’m currently working on **AI Image generator**
+- 🔭 I’m currently working on **Navil Spinnings Consultancy project**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **react , express , node**
 
